@@ -1,4 +1,4 @@
-I've been learning iOS development using SwiftUI since November 2023. Within 5 months of dedicated learning, I successfully launched 2 iOS apps on the AppStore.
+I've been learning iOS development using SwiftUI since November 2023. Within 4 months of dedicated learning, I successfully launched 2 iOS apps on the AppStore.
 
 🚀 InboxZ: https://apple.co/47IQqHI
 
