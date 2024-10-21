@@ -1,4 +1,4 @@
-Recent CS studnet grad, focus on backend engineering with Go.
+Recent CS student grad. Focus on backend engineering with Go.
 
 Currently learning with Boot.dev and Let's Go further.
 
