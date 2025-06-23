@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a backend engineer with a strong focus on building distributed systems with Go. I'm currently looking for an entry-level or junior backend role where I can move fast, contribute, and learn.
+I'm a backend engineer with a strong focus on building distributed systems with Go. I'm currently looking for an entry-level or junior backend role where I can learn and contribute.
 
